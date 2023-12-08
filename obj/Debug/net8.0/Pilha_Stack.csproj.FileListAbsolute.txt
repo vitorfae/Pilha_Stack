@@ -1,0 +1,14 @@
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\bin\Debug\net8.0\Pilha_Stack.exe
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\bin\Debug\net8.0\Pilha_Stack.deps.json
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\bin\Debug\net8.0\Pilha_Stack.runtimeconfig.json
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\bin\Debug\net8.0\Pilha_Stack.dll
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\bin\Debug\net8.0\Pilha_Stack.pdb
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\obj\Debug\net8.0\Pilha_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\obj\Debug\net8.0\Pilha_Stack.AssemblyInfoInputs.cache
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\obj\Debug\net8.0\Pilha_Stack.AssemblyInfo.cs
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\obj\Debug\net8.0\Pilha_Stack.csproj.CoreCompileInputs.cache
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\obj\Debug\net8.0\Pilha_Stack.dll
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\obj\Debug\net8.0\refint\Pilha_Stack.dll
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\obj\Debug\net8.0\Pilha_Stack.pdb
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\obj\Debug\net8.0\Pilha_Stack.genruntimeconfig.cache
+C:\Users\vitor.ulrich\Pictures\UNOESC\Pilha_Stack\obj\Debug\net8.0\ref\Pilha_Stack.dll
